@@ -28,6 +28,11 @@
     Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 </p>
 
+## Test
+```
+/example
+```
+
 ## Documentation
 ```
 https://docs.bugsnag.com/platforms/php/laravel/
